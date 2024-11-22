@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#FF5733"  # Naranja
+backgroundColor="#F0F0F0"  # Gris claro
+secondaryBackgroundColor="#E0E0E0"  # Gris oscuro
+textColor="#222"  # Negro
+font="sans-serif"
